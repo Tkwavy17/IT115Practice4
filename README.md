@@ -1,5 +1,5 @@
 # IT115Practice4
-Quantis
-Christopher
-Adam
-Sami
+Quantis   
+Christopher   
+Adam   
+Sami   
